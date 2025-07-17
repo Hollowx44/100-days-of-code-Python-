@@ -19,7 +19,7 @@
 
 - Changed bidding currency to Primogem!!
 
-<img src="assets/primo.jpg" alt="Primogem_logo"width="300"/>
+<img src="assets/primo.jpg" alt="Primogem_logo" width="300"/>
 
 ### Built with
 
