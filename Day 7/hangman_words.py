@@ -1,4 +1,4 @@
-word_list = [
+word_lists = [
     "United States", "India", "China", "Japan", "United Kingdom", "France", "Germany", "Italy", "Canada", "South Korea",
     "Russia", "Brazil", "Australia", "Mexico", "Spain", "Thailand", "Turkey", "Indonesia", "Switzerland", "Netherlands",
     "Saudi Arabia", "UAE", "Singapore", "South Africa", "Egypt", "Vietnam", "Greece", "Malaysia", "Argentina", "Philippines",
