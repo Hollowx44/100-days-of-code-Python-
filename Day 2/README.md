@@ -1,4 +1,4 @@
-## Day 2 || Tip Calculator
+## Day 2 || Project:Tip Calculator
  
 ## Table of contents
 

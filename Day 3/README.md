@@ -1,4 +1,4 @@
-## Day 3 || Treasure Island Hunt
+## Day 3 || Project:Treasure Island Hunt
 
 - This is my solution to the Treasure Hunt Project for day 3
 
