@@ -1,5 +1,6 @@
 ## Day 6 || Project:Escaping the Maze
-- This is the final project as of day 6.
+- This is the final project as of day 6.Thi was a vey fun and unique way testing your python skills.
+
 ## Table of contents
 
 - [Overview](#overview)
