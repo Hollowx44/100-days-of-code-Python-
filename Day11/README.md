@@ -13,7 +13,7 @@
 - [What I learned](#what-i-learned)
 
 
-<img src="https://tenor.com/view/squid-game-the-salesman-squid-game-the-recruiter-gong-yoo-squid-game-gong-yoo-ddakji-gif-7457217708242386257" width="200" alt="Gameplay Preview" />
+<img src="https://media1.tenor.com/m/Z31b_uCKPVEAAAAd/squid-game-the-salesman-squid-game-the-recruiter.gif" width="200" alt="Gameplay Preview" />
 <p><strong>Wanna_Play?</strong></p>
 
 
