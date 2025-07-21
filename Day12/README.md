@@ -14,7 +14,7 @@
 ### The challenge
 
 - Create a text-based guessing game to guess a number between 1 and 100 
-- Give it two levels: easy and hard
+- Give it two levels: Strong and Light
 
 
 ## Notes
