@@ -13,9 +13,36 @@
 - [What I learned](#what-i-learned)
 
 
-<img src="https://media1.tenor.com/m/Z31b_uCKPVEAAAAd/squid-game-the-salesman-squid-game-the-recruiter.gif" width="200" alt="Gameplay Preview" />
-<p><strong>Wanna_Play?</strong></p>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
+  <!-- Table of Contents -->
+  <div style="width: 60%;">
+    <h2>Table of contents</h2>
+    <ul>
+      <li><a href="#overview">Overview</a>
+        <ul>
+          <li><a href="#the-challenge">The challenge</a></li>
+        </ul>
+      </li>
+      <li><a href="#version">Version</a>
+        <ul>
+          <li><a href="#version-10">Version 1.0</a></li>
+          <li><a href="#version-11">Version 1.1</a></li>
+          <li><a href="#version-12">Version 1.2</a></li>
+        </ul>
+      </li>
+      <li><a href="#built-with">Built with</a></li>
+      <li><a href="#what-i-learned">What I learned</a></li>
+    </ul>
+  </div>
+
+  <!-- GIF Block -->
+  <div style="width: 35%; text-align: center;">
+    <img src="https://media1.tenor.com/m/Z31b_uCKPVEAAAAd/squid-game-the-salesman-squid-game-the-recruiter.gif" width="200" alt="Gameplay Preview" />
+    <p><strong>Wanna_Play?</strong></p>
+  </div>
+
+</div>
 
 ## Overview
 
