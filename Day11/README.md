@@ -12,10 +12,12 @@
 - [Built with](#built-with)
 - [What I learned](#what-i-learned)
 
-<div style="position: absolute; top: 90px; right: 20px;">
-  <img src="https://media1.tenor.com/m/Z31b_uCKPVEAAAAd/squid-game-the-salesman-squid-game-the-recruiter.gif" width="200" alt="Gameplay Preview" />
-  <p style="text-align: center; font-weight: bold;">Wanna_Play?</p>
-</div>
+<img src="https://media1.tenor.com/m/Z3Ib_uCKPVEAAAAd/squid-game-the-salesman-squid-game-the-recruiter.gif" 
+     width="200" 
+     alt="Gameplay Preview" 
+     style="float: right; margin-left: 20px;" />
+
+<p style="text-align: right;"><strong>Wanna_Play?</strong></p>
 
 ## Overview
 
