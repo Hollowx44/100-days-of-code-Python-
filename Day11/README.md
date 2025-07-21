@@ -12,7 +12,7 @@
 - [Built with](#built-with)
 - [What I learned](#what-i-learned)
 
-<img src="https://media1.tenor.com/m/Z3Ib_uCKPVEAAAAd/squid-game-the-salesman-squid-game-the-recruiter.gif" 
+<img src="https://media1.tenor.com/m/Z31b_uCKPVEAAAAC/squid-game-the-salesman-squid-game-the-recruiter.gif" 
      width="200" 
      alt="Gameplay Preview" 
      style="float: right; margin-left: 20px;" />
