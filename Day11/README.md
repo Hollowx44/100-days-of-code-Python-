@@ -12,12 +12,8 @@
 - [Built with](#built-with)
 - [What I learned](#what-i-learned)
 
-<img src="https://media1.tenor.com/m/Z31b_uCKPVEAAAAC/squid-game-the-salesman-squid-game-the-recruiter.gif" 
-     width="200" 
-     alt="Gameplay Preview" 
-     style="float: right; margin-left: 20px;" />
-
-<p style="text-align: right;"><strong>Wanna_Play?</strong></p>
+<img src="https://media1.tenor.com/m/Z31b_uCKPVEAAAAd/squid-game-the-salesman-squid-game-the-recruiter.gif" width="300" alt="Gameplay Preview" />
+<p><strong>Wanna_Play?</strong></p>
 
 ## Overview
 
