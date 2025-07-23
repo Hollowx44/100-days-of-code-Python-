@@ -27,4 +27,4 @@
 - Setup Local Development Environment
 - PEP8 Style Guide
 - Functions
-- Using Pycharm
+- Using VS Code
