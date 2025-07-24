@@ -16,7 +16,7 @@
   - If ingredients are not enough or if user did not pay enough, a message is displayed showing the following resource is not enough or money refunded as the payment was not enough respectively.
 
 ## Notes
-- In this OOP version of coffee machine project the current is not modified to INR, due to limitations.
+- In this OOP version of coffee machine project the currency is not modified to INR, due to limitations.
 
 - ASCII art added for better UI.
 
