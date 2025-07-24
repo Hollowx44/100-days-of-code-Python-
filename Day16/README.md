@@ -17,7 +17,8 @@
 
 ## Notes
 - In this OOP version of coffee machine project the current is not modified to INR, due to limitations.
--ASCII art added for better UI.
+
+- ASCII art added for better UI.
 
 ### Built with
 
