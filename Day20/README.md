@@ -1,5 +1,5 @@
 # Day 20 Project - Snake Game Part 1
-This initial version of Project:Snake Game as of Day 20.
+This is initial version of Project:Snake Game as of Day 20.
 ## Table of contents
 
 - [Overview](#overview)
