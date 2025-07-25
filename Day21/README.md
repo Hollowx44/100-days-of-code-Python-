@@ -1,4 +1,4 @@
-# Day 21 Project - Snake Game Part 2
+# Day 21 || Project - Snake Game Part 2
 This is my final version of Project:Snake Game. 
 ## Table of contents
 
