@@ -1,4 +1,4 @@
-# Day 23 Project - The Turtle Crossing Capstone 
+# Day 23 || Project:The Turtle Crossing 
 This is my final capstone project as of day 23.
 ## Table of contents
 
