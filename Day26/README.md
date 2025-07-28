@@ -1,4 +1,4 @@
-# Day 26: Project - NATO Alphabet
+# Day 26 || Project:NATO Alphabet
 This is my final project as of day 26.
 ## Table of contents
 
