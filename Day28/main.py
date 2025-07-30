@@ -63,7 +63,7 @@ def countdown(count):
 # ---------------------------- UI SETUP ------------------------------- #
 
 canvas=Canvas(width=500,height=500,bg=YELLOW,highlightthickness=0)
-imageT=PhotoImage(file="/home/kukki/Documents/100 Days of code --git/100-days-of-code-Python-/Day28/tomato_chan.png")
+imageT=PhotoImage(file="tomato_chan.png")
 canvas.create_image(250,250,image=imageT)
 timer_text=canvas.create_text(225,340,text="00:00",fill="white",font=(FONT_NAME,25,"bold"))
 canvas.grid(row=2,column=2)
