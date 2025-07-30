@@ -14,6 +14,8 @@ This is my project as of Day 28.
 - Create a Pomodoro GUI countdown timer 
 
 ### Showcase
+- The values for the timer are temporarily changed for demonstration purposes.
+- Added custom image.
 ![tomato_chan](tomato_chan_gif.gif)
 ### Built with
 
