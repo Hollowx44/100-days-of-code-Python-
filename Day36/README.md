@@ -1,5 +1,5 @@
 # Day 36: Stock News Monitoring Project
-- This my final project as of day 36.
+This my final project as of day 36.
 ## Table of contents
 
 - [Overview](#overview)
